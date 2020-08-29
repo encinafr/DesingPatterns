@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Singleton
 {
-    //Esta tecnica de singleton funciona cuando no usamos concurrencia/paralelismo
+    //Esta tecnica de singleton funciona cuando no usamos concurrencia/paralelismo.
     class CSingleton
     {
         //Aqui guardamos la únicxa instancia que va a existir
