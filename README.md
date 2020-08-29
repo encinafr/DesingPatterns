@@ -1,2 +1,2 @@
-# Patrones-de-Desi-o
-Ejemplos de patrones de diseño en C#
+# Design Patterns
+Examples of design patterns in C#
